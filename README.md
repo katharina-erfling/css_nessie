@@ -1,3 +1,5 @@
+<img width="1897" height="900" alt="Screenshot 2026-03-18 184246" src="https://github.com/user-attachments/assets/c65cd8da-bdb1-4e67-948b-dcfc7bb6acd5" />
+
 # 🦕 Nessie
 
 Responsiver Frontend-Prototype einer Service-Partner-Seite mit Tabelle, fixierter Navigation, Hero-Section und Scroll-to-top-Funktion. Gebaut mit purem HTML5 und CSS3.
